@@ -1,6 +1,6 @@
 # Rationale
 
-Gain a base knowledge of average year-over-year salary change for various professions. I hope to expand upon this base to evaluate how the Covid-19 pandemic and it's infaltionary affects may have affected the trends, and if differences exist across professions. 
+Gain a base knowledge of average year-over-year salary change for various professions. I hope to expand upon this base to evaluate how the Covid-19 pandemic and it's inflationary effects may have altered the trends, and if differences exist across professions. 
 
 # Data collection
 
