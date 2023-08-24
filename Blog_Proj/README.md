@@ -1,7 +1,7 @@
 # About
 
 ## This app was created to explore what Python/Django has to offer, since I plan to begin experimenting with building tools that can be practically helpful to pharmacists.
-   
+
 ### Selected skills I picked up are below:
    * Django core features - models, views, html templates & inheritance, SQLite development DB, migrations, routes, urlpatterns, etc.
    * HTML/CSS/Bootsrap, since I had little knowledge of these before<
