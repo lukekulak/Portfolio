@@ -17,3 +17,5 @@
    * Crispy forms formatting
    * Automatic profile picture resizing
    * Conditional pagination
+
+Please note: this is very much a beginner project to learn the ropes. No data in the files is important.
