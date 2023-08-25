@@ -1,4 +1,4 @@
-# About
+# README
 
 ## This app was created to explore what Python/Django has to offer, since I plan to begin experimenting with building tools that can be practically helpful to pharmacists.
 
