@@ -15,7 +15,7 @@
 ### Below are some key features of the site:
    * Home page that will show, reverse chronologically, user-created posts
    * User & Profile login/logout and registration system. Includes default and changeable profile pictures
-   * Editable posts if the current singed-in profile is the author of the post
+   * Editable posts if the current signed-in profile is the author of the post
    * Crispy forms formatting
    * Automatic profile picture resizing
    * Conditional pagination
