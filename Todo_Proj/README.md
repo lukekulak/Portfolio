@@ -19,7 +19,7 @@ when trying to create a new todo list. It was saying the list was referenced bef
 I restart. By the time I get to the end, I had started and completed my 
 blog project. Again, at the end, I go to create a new list and get the same error. 
 I quickly figure out it's because the form has a checkbox BooleanField which I did not
-change the default value to <i>"required=False."
+change the default value to <i>"required=False."<i>
 
 I laugh and immediately text my girlfriend about it since she saw the frustration I had the first time. 
 I'm just happy I was able to debug that  oversight rather quickly, instead of hitting a complete wall like my first go-around :)
